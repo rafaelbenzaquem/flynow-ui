@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <path id="Path_1519" data-name="Path 1519" d="M30,0A30,30,0,1,1,0,30,30,30,0,0,1,30,0Z" fill="#fff"/>
+  <g id="plane" transform="translate(50.777 30.27) rotate(135)">
+    <g id="Group_56" data-name="Group 56" transform="translate(13.259 4.072)">
+      <g id="Group_55" data-name="Group 55">
+        <path id="Path_1144" data-name="Path 1144" d="M12.3,0l3.658,3.658-10.224,4L0,1.931Z" fill="#61e9a5"/>
+      </g>
+    </g>
+    <g id="Group_58" data-name="Group 58" transform="translate(0 0)">
+      <g id="Group_57" data-name="Group 57">
+        <path id="Path_1145" data-name="Path 1145" d="M.576.576c.694-.694,1.893-.762,3.469-.2A8.4,8.4,0,0,1,6.81,1.962L21.1,16.25l5.447.319,2.612,2.612-4.268,2.06-2.027-2.027-2.381.042,2.773,2.773-.009,0L24.9,23.69,23.69,24.9l-1.654-1.654-.008.016L19.25,20.487v2.424L21.238,24.9l-2.058,4.258-2.611-2.611L16.25,21.1,1.962,6.81A8.4,8.4,0,0,1,.379,4.045C-.186,2.47-.118,1.27.576.576Z" fill="#61e9a5"/>
+      </g>
+    </g>
+    <g id="Group_60" data-name="Group 60" transform="translate(4.008 13.241)">
+      <g id="Group_59" data-name="Group 59">
+        <path id="Path_1146" data-name="Path 1146" d="M1.924,0,7.647,5.723,3.658,15.906,0,12.247Z" fill="#61e9a5"/>
+      </g>
+    </g>
+  </g>
+</svg>

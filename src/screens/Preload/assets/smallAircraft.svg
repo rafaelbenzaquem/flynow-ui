@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360.375" height="283.13" viewBox="0 0 360.375 283.13">
+  <g id="Group_704" data-name="Group 704" transform="matrix(0.839, -0.545, 0.545, 0.839, -51.018, 141.693)">
+    <g id="Artboard_1" data-name="Artboard 1" transform="matrix(0.951, 0.309, -0.309, 0.951, 52.616, -33.35)">
+      <path id="Path_1509" data-name="Path 1509" d="M0,204.71S74,53.54,232.571,112.739" transform="translate(0 0)" fill="none" stroke="#fff" stroke-width="1" stroke-dasharray="8 10" fill-rule="evenodd"/>
+    </g>
+    <g id="Artboard_1-2" data-name="Artboard 1" transform="translate(100.767 38.518) rotate(-18)">
+      <path id="Path_1509-2" data-name="Path 1509" d="M232.571,204.71S158.571,53.54,0,112.739" transform="translate(0 0)" fill="none" stroke="#fff" stroke-width="1" stroke-dasharray="8 10" fill-rule="evenodd"/>
+    </g>
+    <g id="plane" transform="translate(136.198 163.016) rotate(-176)">
+      <g id="Group_56" data-name="Group 56" transform="translate(0 2.514)">
+        <g id="Group_55" data-name="Group 55">
+          <path id="Path_1144" data-name="Path 1144" d="M2.258,71.859,0,74.118,6.312,76.59,9.85,73.051Z" transform="translate(0 -71.859)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_58" data-name="Group 58" transform="translate(0.035 0)">
+        <g id="Group_57" data-name="Group 57" transform="translate(0 0)">
+          <path id="Path_1145" data-name="Path 1145" d="M18.63.853C18.2.425,17.461.383,16.488.731a5.185,5.185,0,0,0-1.707.978L5.961,10.53l-3.363.2L.985,12.339,3.62,13.611l1.251-1.251,1.47.026L4.629,14.1l.005,0L3.612,15.123l.748.748L5.381,14.85l0,.01L7.1,13.145v1.5L5.874,15.869,7.144,18.5l1.612-1.612.2-3.363L17.774,4.7A5.184,5.184,0,0,0,18.752,3C19.1,2.022,19.058,1.282,18.63.853Z" transform="translate(-0.985 -0.498)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_60" data-name="Group 60" transform="translate(10.84 8.174)">
+        <g id="Group_59" data-name="Group 59">
+          <path id="Path_1146" data-name="Path 1146" d="M311.266,232.564l-3.533,3.533,2.462,6.286,2.258-2.258Z" transform="translate(-307.733 -232.564)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g id="plane-2" data-name="plane" transform="translate(255.868 163.059) rotate(-176)">
+      <g id="Group_56-2" data-name="Group 56" transform="translate(8.185 2.514)">
+        <g id="Group_55-2" data-name="Group 55">
+          <path id="Path_1144-2" data-name="Path 1144" d="M7.591,71.859,9.85,74.118,3.538,76.59,0,73.051Z" transform="translate(0 -71.859)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_58-2" data-name="Group 58" transform="translate(0 0)">
+        <g id="Group_57-2" data-name="Group 57" transform="translate(0 0)">
+          <path id="Path_1145-2" data-name="Path 1145" d="M1.341.853C1.769.425,2.51.383,3.482.731a5.185,5.185,0,0,1,1.707.978L14.01,10.53l3.363.2,1.613,1.613L16.35,13.611,15.1,12.359l-1.47.026L15.341,14.1l-.005,0,1.022,1.022-.748.748L14.589,14.85l0,.01-1.715-1.715v1.5L14.1,15.869,12.826,18.5l-1.612-1.612-.2-3.363L2.2,4.7A5.184,5.184,0,0,1,1.219,3C.87,2.022.912,1.282,1.341.853Z" transform="translate(-0.985 -0.498)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_60-2" data-name="Group 60" transform="translate(2.475 8.174)">
+        <g id="Group_59-2" data-name="Group 59" transform="translate(0)">
+          <path id="Path_1146-2" data-name="Path 1146" d="M308.921,232.564l3.533,3.533-2.462,6.286-2.258-2.258Z" transform="translate(-307.733 -232.564)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
